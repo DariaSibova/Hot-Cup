@@ -19,6 +19,7 @@ body {
   opacity: 0;
 }
 
+
 #steam1 {
   -webkit-animation: steam1 4s ease-out infinite;
   animation: steam1 4s ease-out infinite;
